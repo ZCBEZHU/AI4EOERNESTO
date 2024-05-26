@@ -18,7 +18,9 @@ The aim of this project is to leverage artificial intelligence and IRIS to class
 
 
 ## Data Overview
-https://drive.google.com/drive/folders/1Xl6VU3VXGa4c1A3DRhh5Hfp3ItK4aTbV?usp=sharing
+data link: https://drive.google.com/drive/folders/1Xl6VU3VXGa4c1A3DRhh5Hfp3ItK4aTbV?usp=sharing
+
+chunks link: https://drive.google.com/drive/folders/1QQvKQPpBcut-Tz-3nQjlDj9cUshg6R0V?usp=sharing
 
 ![f265bfc0768daa012a8a3d87762329d](https://github.com/ZCBEZHU/AI4EOFINALERNESTO/assets/160029229/a31094ff-e32f-4b48-beac-a55ced250391)
 

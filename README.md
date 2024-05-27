@@ -31,7 +31,7 @@ As illustrated in the figure above, the data is sourced from Sentinel-3, coverin
 
 
 ## Project Conclusion
-By comparing the classification maps produced by different AI models, it is evident that all models effectively classified the ocean and cloud layers. However, challenges arose in the glacier region at the top of the data source. The AI models struggled to accurately distinguish between glaciers, sea ice, and cloud layers, due to their similar visual characteristics. Nonetheless, for some areas of land, ocean, and clouds, the AI algorithms provided reliable identification. This undoubtedly addresses the issues related to the classification of land, ocean, and cloud layers.
+By comparing the classification maps produced by different AI models, it is evident that all models effectively classified the ocean and cloud layers. However, challenges arose in the glacier region at the top of the data source. The AI models struggled to accurately distinguish between glaciers, sea ice, and cloud layers, due to their similar visual characteristics. Nonetheless, for some areas of land, ocean, and clouds, the AI algorithms provided reliable identification. This undoubtedly addresses the issues related to the classification of land（No ice or snow cover）, ocean, and cloud layers.
 
 ![16bf8bc2cb82181455bfb96bbd66072](https://github.com/ZCBEZHU/AI4EOFINALERNESTO/assets/160029229/6796bd76-0769-468d-848f-92dc096911e4)
 

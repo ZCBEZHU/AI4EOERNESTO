@@ -1,6 +1,8 @@
 # AI4EO Final Project
 Video link：https://youtu.be/jjKA8vhYZA4?si=WiTXaYVvd1TiSKok
 
+The code shown in the video is not the final version and differs slightly from the one in the GitHub repository. This is because the final code has undergone several updates and optimizations.
+
 ## A description of the problem to be tacked
 
 The aim of this project is to leverage artificial intelligence and IRIS to classify cloud and ocean data obtained from the Sentinel-3 satellite. By comparing the differences in classification images produced by various algorithms, this study evaluates the value and limitations of artificial intelligence in satellite remote sensing and Earth observation.
